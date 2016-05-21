@@ -1,0 +1,10 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+	<string name="app_name">wear</string>
+	<string name="hello_round">Hello Round World!</string>
+	<string name="hello_square">Hello Square World!</string>
+	<string name="my_digital_name">Sunshine app</string>
+	<!-- Strings for formatting weather-related data -->
+	<!-- Temperature format [CHAR LIMIT=5 -->
+	<string name="format_temperature"><xliff:g id="temp">%1.0f</xliff:g>\u00B0</string>
+
+</resources>
